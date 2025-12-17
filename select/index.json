@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Blues in the Closet",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-17T16:30:16.965063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blues in the Closet",
+      "artist": "Zutomayo",
+      "has_synced": true,
+      "path": "select/01_Blues_in_the_Closet_Zutomayo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blues in the Closet",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_Blues_in_the_Closet_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blues in the Closet",
+      "artist": "ZUTOMAYO",
+      "has_synced": false,
+      "path": "select/03_Blues_in_the_Closet_ZUTOMAYO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blues in the Closet",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_Blues_in_the_Closet_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blues in the Closet",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_Blues_in_the_Closet_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blues in the Closet (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_Blues_in_the_Closet_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blues in the Closet",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_Blues_in_the_Closet_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blues in the Closet",
+      "artist": "Bud Powell",
+      "has_synced": false,
+      "path": "select/08_Blues_in_the_Closet_Bud_Powell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blues in the Closet",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_Blues_in_the_Closet_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
